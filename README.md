@@ -7,15 +7,25 @@ This project presents an interactive Power BI dashboard based on a survey conduc
 
 Features
 
-Salary Analysis: Breakdown of salaries by experience, location, and job role.
+Salary Analysis: 
 
-Work-Life Balance Insights: Understanding how professionals rate their job satisfaction and work hours.
+Breakdown of salaries by experience, location, and job role.
 
-Technology Stack: Most commonly used tools and technologies.
+Work-Life Balance Insights: 
 
-Career Progression: Analysis of experience levels and promotions.
+Understanding how professionals rate their job satisfaction and work hours.
 
-Geographical Insights: Distribution of data professionals across different regions.
+Technology Stack: 
+
+Most commonly used tools and technologies.
+
+Career Progression: 
+
+Analysis of experience levels and promotions.
+
+Geographical Insights:															
+
+Distribution of data professionals across different regions.
 
 Data Source
 
@@ -23,13 +33,17 @@ The dataset used in this project comes from a survey conducted among data profes
 
 Tools & Technologies
 
-Power BI: Used for data visualization and dashboard creation.
+Power BI: 
+Used for data visualization and dashboard creation.
 
-Excel/CSV: Data preprocessing and storage.
+Excel/CSV: 
+Data preprocessing and storage.
 
-DAX (Data Analysis Expressions): For advanced calculations in Power BI.
+DAX (Data Analysis Expressions): 
+For advanced calculations in Power BI.
 
-SQL (optional): Used for data extraction and transformation if required.
+SQL (optional): 
+Used for data extraction and transformation if required.
 
 Contributions
 
