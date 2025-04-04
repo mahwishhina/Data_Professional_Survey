@@ -1,58 +1,57 @@
 # Data_Professional_Survey
-Data Professional Survey - Power Bi Project
 
-Overview
+## Overview
 
 This project presents an interactive Power BI dashboard based on a survey conducted among data professionals. The survey covers various aspects of their jobs, including salaries, work-life balance, job satisfaction, tools used, and career growth. The goal of this project is to provide insights into the data professional landscape and help individuals and organizations understand industry trends.
 
-Features
+## Features
 
-Salary Analysis: 
+### Salary Analysis: 
 
 Breakdown of salaries by experience, location, and job role.
 
-Work-Life Balance Insights: 
+### Work-Life Balance Insights: 
 
 Understanding how professionals rate their job satisfaction and work hours.
 
-Technology Stack: 
+### Technology Stack: 
 
 Most commonly used tools and technologies.
 
-Career Progression: 
+### Career Progression: 
 
 Analysis of experience levels and promotions.
 
-Geographical Insights:															
+### Geographical Insights:															
 
 Distribution of data professionals across different regions.
 
-Data Source
+### Data Source
 
 The dataset used in this project comes from a survey conducted among data professionals. It includes anonymized responses from individuals across various industries and job roles.
 
-Tools & Technologies
+## Tools & Technologies
 
-Power BI: 
+###  Power BI: 
 Used for data visualization and dashboard creation.
 
-Excel/CSV: 
+###  Excel/CSV: 
 Data preprocessing and storage.
 
-DAX (Data Analysis Expressions): 
+###  DAX (Data Analysis Expressions): 
 For advanced calculations in Power BI.
 
-SQL (optional): 
+###  SQL (optional): 
 Used for data extraction and transformation if required.
 
-Contributions
+## Contributions
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements.
 
-License
+## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project in accordance with the terms of the license.
 
-Contact
+## Contact
 
 For any inquiries, please reach out via GitHub Issues.
